@@ -41,9 +41,9 @@ This project goes beyond a basic submission: it includes rigorous statistical an
 ##  Project Structure
 
 ```
-titanic-survival-prediction/
+Titanic Practice/
 │
-├── Titanic.ipynb          # Main notebook — full analysis
+├── Titanic_Practice.ipynb          # Main notebook — full analysis
 ├── README.md
 │
 ├── data/
