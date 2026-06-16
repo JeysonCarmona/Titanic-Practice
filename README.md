@@ -104,7 +104,7 @@ Beyond accuracy: **learning curves** for bias-variance diagnosis, **confusion ma
 
 ---
 
-## 🖼️Key Visualizations
+## Key Visualizations
 
 ### SHAP Beeswarm — What drives survival predictions?
 <!-- Replace with your actual screenshot -->
@@ -120,7 +120,7 @@ Beyond accuracy: **learning curves** for bias-variance diagnosis, **confusion ma
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Libraries |
 |---|---|
