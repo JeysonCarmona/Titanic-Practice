@@ -1,4 +1,4 @@
-# 🚢 Titanic — Survival Prediction
+#  Titanic — Survival Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Kaggle Score](https://img.shields.io/badge/Kaggle%20Score-0.80861-brightgreen?logo=kaggle&logoColor=white)
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Problem Overview
+##  Problem Overview
 
 The sinking of the Titanic in 1912 left 1,502 of 2,224 passengers dead. Survival was far from random — passenger class, sex, age, and family size all played measurable roles. The goal of this competition is to build a model that predicts which passengers survived, using these features as inputs.
 
@@ -20,11 +20,11 @@ This project goes beyond a basic submission: it includes rigorous statistical an
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model | CV Accuracy (10-fold) | Kaggle Score |
 |---|---|---|
-| **SVC** | — | **0.80861** ✅ |
+| **SVC** | — | **0.80861**  |
 | Voting Classifier | — | 0.78947 |
 | AdaBoost | — | 0.78468 |
 | LightGBM | — | 0.78468 |
@@ -38,7 +38,7 @@ This project goes beyond a basic submission: it includes rigorous statistical an
 
 ---
 
-## 🔍 Project Structure
+##  Project Structure
 
 ```
 titanic-survival-prediction/
@@ -61,7 +61,7 @@ titanic-survival-prediction/
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Exploratory Data Analysis
 - Descriptive statistics and **Pearson correlation** with the target variable
@@ -104,7 +104,7 @@ Beyond accuracy: **learning curves** for bias-variance diagnosis, **confusion ma
 
 ---
 
-## 🖼️ Key Visualizations
+## 🖼️Key Visualizations
 
 ### SHAP Beeswarm — What drives survival predictions?
 <!-- Replace with your actual screenshot -->
@@ -132,7 +132,7 @@ Beyond accuracy: **learning curves** for bias-variance diagnosis, **confusion ma
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repository
@@ -152,7 +152,7 @@ Or run directly in Google Colab:
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 pandas
