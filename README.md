@@ -148,7 +148,7 @@ jupyter notebook Titanic.ipynb
 
 Or run directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/titanic-survival-prediction/blob/main/Titanic.ipynb)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/titanic-survival-prediction/blob/main/Titanic.ipynb](https://colab.research.google.com/drive/1WHxevWyp2Od-srPFcm3JMPqNE8HidyIU?authuser=1#scrollTo=z9ZtAffPML-m))
 
 ---
 
