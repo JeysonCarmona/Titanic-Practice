@@ -148,7 +148,7 @@ jupyter notebook Titanic.ipynb
 
 Or run directly in Google Colab:
 
-[![Open In Colab](https://github.com/JeysonCarmona/Titanic-Practice/blob/main/Titanic_Practice.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeysonCarmona/Titanic-Practice/blob/main/Titanic_Practice.ipynb)
 
 ---
 
