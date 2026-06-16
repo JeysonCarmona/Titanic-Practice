@@ -148,7 +148,7 @@ jupyter notebook Titanic.ipynb
 
 Or run directly in Google Colab:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/titanic-survival-prediction/blob/main/Titanic.ipynb](https://colab.research.google.com/drive/1WHxevWyp2Od-srPFcm3JMPqNE8HidyIU?authuser=1#scrollTo=z9ZtAffPML-m))
+[![Open In Colab]([[https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/titanic-survival-prediction/blob/main/Titanic.ipynb](https://colab.research.google.com/drive/1WHxevWyp2Od-srPFcm3JMPqNE8HidyIU?authuser=1#scrollTo=z9ZtAffPML-m](https://github.com/JeysonCarmona/Titanic-Practice/blob/main/Titanic_Practice.ipynb)))
 
 ---
 
@@ -174,10 +174,10 @@ jupyter
 
 ## 👤 Author
 
-**Jeyson** — Engineering student passionate about embedded systems, robotics, and data science.
+**Jeyson Alberto Carmona Bedoya** — Engineering student passionate about embedded systems, robotics, and data science.
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Kaggle: [@YOUR_KAGGLE](https://www.kaggle.com/YOUR_KAGGLE)
+- GitHub: [@JeysonCarmona](https://github.com/JeysonCarmona)
+- Kaggle: [@jeysoncarmona01](https://www.kaggle.com/jeysoncarmona01)
 
 ---
 
